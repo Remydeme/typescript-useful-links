@@ -13,3 +13,14 @@ package to verify the token :
 Article explaining how to check the AZ AD JWT :
 
 * https://nicksnettravels.builttoroam.com/post-2017-01-24-verifying-azure-active-directory-jwt-tokens-aspx/
+
+
+
+
+## Open API 
+
+##### SecurityScheme 
+
+how to set up auth verification:
+
+https://github.com/anttiviljami/openapi-backend/blob/master/examples/express-jwt-auth/index.js
